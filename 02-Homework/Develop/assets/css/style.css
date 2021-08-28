@@ -101,8 +101,8 @@ aside {
     max-width: 150px;
 }
 
-/* Consolidated */
-.online-reputation-management,.social-media-marketing,.search-engine-optimization  {
+/* Consolidated multiple classes for the article section */
+.article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -112,13 +112,12 @@ aside {
 }
 
 /* Consolidated */
-.search-engine-optimization img, 
-.social-media-marketing img, .online-reputation-management img {
+.article img {
     max-height: 200px;
 }
 
  /* Consolidated */
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }

@@ -3,4 +3,4 @@ This is week 1 homework
 
 WELCOME!
 
-For this homework I have consolidated various repetitive lines of code in the style.css sheet. In addition I have attempted to add more structure to the body of the HTML file by replaceing Div tags with Main, section, and footer tags.
+For this homework I have consolidated various repetitive lines of code in the style.css sheet and the HTML file. Ive done this by adding more specific tags to the HTML so that the code more clearly represents which elements are being affected on the page. Additionally I've removed excess and repetetive classes from both the HTML file and the CSS file.
