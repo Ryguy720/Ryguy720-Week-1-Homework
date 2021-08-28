@@ -24,10 +24,9 @@ body {
     color: #d9dcd6;
 }
 
-/* Consolidated */
+/* Consolidated  tags and removed display: inline-block as it was being ignored die to the float command*/
 .header div ul, .header div ul li, .header div {
     list-style-type: none;
-    display: inline-block;
     margin-left: 25px;
     padding-top: 15px;
     margin-right: 20px;
